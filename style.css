@@ -1,0 +1,13 @@
+.head {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.tittle {
+    color: white;
+    background-color: darkslateblue;
+    padding: 1rem;
+    border-radius: 1.5rem;
+}
